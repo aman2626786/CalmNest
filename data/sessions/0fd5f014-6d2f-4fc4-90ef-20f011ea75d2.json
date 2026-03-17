@@ -1,0 +1,64 @@
+{
+  "session_id": "0fd5f014-6d2f-4fc4-90ef-20f011ea75d2",
+  "created_at": "2026-03-04T08:32:46.960617",
+  "updated_at": "2026-03-04T09:25:13.102009",
+  "assessments": {
+    "gad7": {
+      "score": 20,
+      "severity": "severe",
+      "responses": [
+        3,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3
+      ],
+      "completed_at": "2026-03-04T08:50:34.997857"
+    },
+    "phq9": {
+      "score": 27,
+      "severity": "severe",
+      "responses": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "completed_at": "2026-03-04T09:22:24.838508"
+    },
+    "emotion": {
+      "detected_emotion": "Neutral",
+      "confidence": 100,
+      "mood_data": {},
+      "completed_at": "2026-03-04T09:23:42.545048"
+    },
+    "lifestyle": {
+      "hobbies": "Reading, listening music.",
+      "eating_habits": "Light food, avoid street food.",
+      "daily_life": "Busy",
+      "sleep_schedule": "5-6 hours",
+      "meditation": "No",
+      "exercise": "Rarely",
+      "feel_good_activities": "Music Sunna, or Codding",
+      "happiness_triggers": "Family time, or cricket khelna.",
+      "completed_at": "2026-03-04T09:25:13.005968"
+    }
+  },
+  "workflow_state": {
+    "session_id": "0fd5f014-6d2f-4fc4-90ef-20f011ea75d2",
+    "created_at": "2026-03-04T09:25:13.060451",
+    "updated_at": "2026-03-04T09:25:13.061459",
+    "current_step": "phq9",
+    "completed_steps": [
+      "gad7"
+    ],
+    "is_complete": false
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "session_id": "bacefe30-34d4-4e8e-98e0-624601325afa",
+  "created_at": "2026-03-07T09:39:37.003445",
+  "updated_at": "2026-03-07T09:41:18.140372",
+  "assessments": {
+    "gad7": {
+      "score": 20,
+      "severity": "severe",
+      "responses": [
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "completed_at": "2026-03-07T09:39:44.801755"
+    },
+    "phq9": {
+      "score": 23,
+      "severity": "severe",
+      "responses": [
+        3,
+        3,
+        2,
+        3,
+        3,
+        2,
+        2,
+        3,
+        2
+      ],
+      "completed_at": "2026-03-07T09:39:54.556797"
+    },
+    "emotion": {
+      "detected_emotion": "Neutral",
+      "confidence": 93.1,
+      "mood_data": {},
+      "completed_at": "2026-03-07T09:40:10.168489"
+    },
+    "lifestyle": {
+      "hobbies": "Reading, Listening to music",
+      "eating_habits": "Regular Meals, street food.",
+      "daily_life": "Busy",
+      "sleep_schedule": "5-6 hours.",
+      "meditation": "NO",
+      "exercise": "NO",
+      "feel_good_activities": "Music sunkar.",
+      "happiness_triggers": "Achievements.",
+      "completed_at": "2026-03-07T09:41:17.944929"
+    }
+  },
+  "workflow_state": {
+    "session_id": "bacefe30-34d4-4e8e-98e0-624601325afa",
+    "created_at": "2026-03-07T09:39:37.000272",
+    "updated_at": "2026-03-07T09:41:18.136958",
+    "current_step": "report",
+    "completed_steps": [
+      "gad7",
+      "phq9",
+      "emotion",
+      "lifestyle"
+    ],
+    "is_complete": true
+  }
+}

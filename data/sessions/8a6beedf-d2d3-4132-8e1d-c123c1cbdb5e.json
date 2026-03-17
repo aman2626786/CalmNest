@@ -1,0 +1,64 @@
+{
+  "session_id": "8a6beedf-d2d3-4132-8e1d-c123c1cbdb5e",
+  "created_at": "2026-03-04T16:54:03.325198",
+  "updated_at": "2026-03-04T16:55:50.746885",
+  "assessments": {
+    "gad7": {
+      "score": 17,
+      "severity": "severe",
+      "responses": [
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2
+      ],
+      "completed_at": "2026-03-04T16:54:18.595566"
+    },
+    "phq9": {
+      "score": 23,
+      "severity": "severe",
+      "responses": [
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        3,
+        3
+      ],
+      "completed_at": "2026-03-04T16:54:29.928724"
+    },
+    "emotion": {
+      "detected_emotion": "Happy",
+      "confidence": 98.4,
+      "mood_data": {},
+      "completed_at": "2026-03-04T16:55:21.644468"
+    },
+    "lifestyle": {
+      "hobbies": "no",
+      "eating_habits": "no",
+      "daily_life": "no",
+      "sleep_schedule": "no",
+      "meditation": "no",
+      "exercise": "no",
+      "feel_good_activities": "no",
+      "happiness_triggers": "no",
+      "completed_at": "2026-03-04T16:55:50.693137"
+    }
+  },
+  "workflow_state": {
+    "session_id": "8a6beedf-d2d3-4132-8e1d-c123c1cbdb5e",
+    "created_at": "2026-03-04T16:55:50.708172",
+    "updated_at": "2026-03-04T16:55:50.708172",
+    "current_step": "phq9",
+    "completed_steps": [
+      "gad7"
+    ],
+    "is_complete": false
+  }
+}

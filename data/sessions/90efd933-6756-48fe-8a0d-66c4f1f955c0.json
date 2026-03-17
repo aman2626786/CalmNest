@@ -1,0 +1,47 @@
+{
+  "session_id": "90efd933-6756-48fe-8a0d-66c4f1f955c0",
+  "created_at": "2026-03-04T16:56:33.917099",
+  "updated_at": "2026-03-04T16:57:36.051929",
+  "assessments": {
+    "gad7": {
+      "score": 16,
+      "severity": "severe",
+      "responses": [
+        3,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3
+      ],
+      "completed_at": "2026-03-04T16:57:24.757806"
+    },
+    "phq9": {
+      "score": 23,
+      "severity": "severe",
+      "responses": [
+        2,
+        3,
+        2,
+        3,
+        3,
+        2,
+        3,
+        2,
+        3
+      ],
+      "completed_at": "2026-03-04T16:57:35.936563"
+    }
+  },
+  "workflow_state": {
+    "session_id": "90efd933-6756-48fe-8a0d-66c4f1f955c0",
+    "created_at": "2026-03-04T16:57:36.002396",
+    "updated_at": "2026-03-04T16:57:36.002396",
+    "current_step": "phq9",
+    "completed_steps": [
+      "gad7"
+    ],
+    "is_complete": false
+  }
+}

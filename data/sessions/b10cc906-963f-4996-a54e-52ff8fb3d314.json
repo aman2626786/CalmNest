@@ -1,0 +1,14 @@
+{
+  "session_id": "b10cc906-963f-4996-a54e-52ff8fb3d314",
+  "created_at": "2026-03-03T23:35:26.064243",
+  "updated_at": "2026-03-03T23:35:26.064243",
+  "assessments": {},
+  "workflow_state": {
+    "session_id": "b10cc906-963f-4996-a54e-52ff8fb3d314",
+    "created_at": "2026-03-03T23:35:26.064243",
+    "updated_at": "2026-03-03T23:35:26.064243",
+    "current_step": "gad7",
+    "completed_steps": [],
+    "is_complete": false
+  }
+}
